@@ -1,0 +1,16 @@
+C:\Users\Noah\RiderProjects\CaesarShift\obj\Debug\net5.0\CaesarShift.csprojAssemblyReference.cache
+C:\Users\Noah\RiderProjects\CaesarShift\obj\Debug\net5.0\CaesarShift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noah\RiderProjects\CaesarShift\obj\Debug\net5.0\CaesarShift.AssemblyInfoInputs.cache
+C:\Users\Noah\RiderProjects\CaesarShift\obj\Debug\net5.0\CaesarShift.AssemblyInfo.cs
+C:\Users\Noah\RiderProjects\CaesarShift\obj\Debug\net5.0\CaesarShift.csproj.CoreCompileInputs.cache
+C:\Users\Noah\RiderProjects\CaesarShift\bin\Debug\net5.0\CaesarShift.exe
+C:\Users\Noah\RiderProjects\CaesarShift\bin\Debug\net5.0\CaesarShift.deps.json
+C:\Users\Noah\RiderProjects\CaesarShift\bin\Debug\net5.0\CaesarShift.runtimeconfig.json
+C:\Users\Noah\RiderProjects\CaesarShift\bin\Debug\net5.0\CaesarShift.runtimeconfig.dev.json
+C:\Users\Noah\RiderProjects\CaesarShift\bin\Debug\net5.0\CaesarShift.dll
+C:\Users\Noah\RiderProjects\CaesarShift\bin\Debug\net5.0\ref\CaesarShift.dll
+C:\Users\Noah\RiderProjects\CaesarShift\bin\Debug\net5.0\CaesarShift.pdb
+C:\Users\Noah\RiderProjects\CaesarShift\obj\Debug\net5.0\CaesarShift.dll
+C:\Users\Noah\RiderProjects\CaesarShift\obj\Debug\net5.0\ref\CaesarShift.dll
+C:\Users\Noah\RiderProjects\CaesarShift\obj\Debug\net5.0\CaesarShift.pdb
+C:\Users\Noah\RiderProjects\CaesarShift\obj\Debug\net5.0\CaesarShift.genruntimeconfig.cache
